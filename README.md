@@ -9,5 +9,6 @@ This project implements a robust internationalization (i18n) solution for Next.j
 - Access Language in Components: Language settings can be accessed in both client and server components, ensuring a consistent experience throughout the application.
 - Invalid Locale Handling: The application checks for invalid locales and provides fallback options to enhance user experience.
 
-Contributing
+## Contributing
+
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
