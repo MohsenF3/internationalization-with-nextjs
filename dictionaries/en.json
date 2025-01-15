@@ -1,0 +1,21 @@
+{
+  "title": "This is a title",
+  "subTitle": "This is a subtitle",
+  "About": {
+    "title": "This is about page"
+  },
+  "Contact": {
+    "title": "This is contact page"
+  },
+  "Header": {
+    "links": {
+      "Home": "Home",
+      "About": "About",
+      "Contact": "Contact"
+    }
+  },
+  "NotFound": {
+    "title": "Page not found!!",
+    "button": "Return to home"
+  }
+}
